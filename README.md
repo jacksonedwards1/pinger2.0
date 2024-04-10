@@ -5,6 +5,7 @@ Pinger 2.0 is a program that allows the user to seamlessly ping a network device
 ## Installation
 
 Double-click the .exe file and request Bit9 approval. Once this is completed, it is recommended to add a program shorcut to your startup file so that Pinger 2.0 is always running when you need it.  
+
 Please do not move any files outside of the Pinger 2.0 folder as you will start to get error messages and the program may not work as designed.
 
 ## Usage
